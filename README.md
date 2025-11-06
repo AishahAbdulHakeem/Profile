@@ -46,6 +46,6 @@ Users can navigate between pages using a `UINavigationController`, and changes a
 - Figma (for UI reference)
 
 ---
-
+Done By Aishah Abdul-Hakeem and Ysrael Hernandez
 
 
